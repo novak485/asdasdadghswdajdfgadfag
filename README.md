@@ -75,8 +75,8 @@ Add a configuration file to your module resources (e.g. src/main/resources or sr
 
 **NOTE:**
 > The file name can be any but it's recommended to use a unique name, eventually the class name, as presented on the code above. Using unique names allows:
- * To have multiple configuration managers on the same module. For example, if you want to separate properties loggicaly.
- * Avoid conflicts with configuration files, when reusing modules.
+> * To have multiple configuration managers on the same module. For example, if you want to separate properties loggicaly.
+> * Avoid conflicts with configuration files, when reusing modules.
 
 ##### conf.properties
 ```java
